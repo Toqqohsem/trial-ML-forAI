@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Executed notebook outputs (can be regenerated)
+**/executed_output.ipynb
+
+# Patched local copies (can be regenerated)
+**/Student_Performance_Prediction_local.ipynb
+
+# Claude Code
+.claude/
